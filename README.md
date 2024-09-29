@@ -46,8 +46,9 @@ pip install yt-dlp colorama pyfiglet
 <p>1. Clone this repository:</p>
 
 ```bash
-git clone https://github.com/eirsvi/tiktok-profile-downloader.git
-cd tiktok-profile-downloader
+git clone git@github.com:EIRSVi/tiktok-profile-bulk-downloader.git
+
+cd tiktok-profile-bulk-downloader
 ```
 
 <p>2. Run the script:</p>
